@@ -1,2 +1,1 @@
-# c20
-mobile compatible
+# C19-TA2
